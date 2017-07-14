@@ -1,0 +1,54 @@
+# Rime user dictionary
+#@/db_name	easy_en.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	37
+#@/user_id	Squirrelx_Macx
+amazing 	amazing	c=2 d=1.97516 t=37
+amazon 	amazon	c=1 d=0.995012 t=37
+an 	an	c=-1 d=0 t=37
+awesome 	awesome	c=1 d=1 t=37
+browse 	browse	c=1 d=1 t=37
+cinema 	cinema	c=1 d=0.985112 t=37
+circle 	circle	c=1 d=1 t=37
+colorful 	colorful	c=1 d=1 t=37
+command 	command	c=2 d=1.92644 t=37
+configure 	configure	c=1 d=0.97531 t=37
+connect 	connect	c=2 d=1.97045 t=37
+control 	control	c=1 d=1 t=2
+dashboard 	dashboard	c=1 d=0.995012 t=37
+desktop 	desktop	c=1 d=0.985112 t=37
+fantastic 	fantastic	c=1 d=0.995012 t=37
+finder 	finder	c=2 d=1.96546 t=37
+in 	in	c=1 d=0.99005 t=37
+information 	information	c=1 d=1 t=37
+install 	install	c=3 d=2.94107 t=37
+like 	like	c=1 d=0.99005 t=37
+machine 	machine	c=2 d=1.99501 t=37
+made 	made	c=2 d=1 t=37
+mental 	mental	c=1 d=0.995012 t=37
+mobile 	mobile	c=1 d=0.985112 t=37
+money 	money	c=1 d=0.980199 t=37
+music 	music	c=1 d=1 t=37
+name 	name	c=-1 d=0.995012 t=37
+notification 	notification	c=1 d=1 t=3
+one 	one	c=1 d=0.995012 t=37
+print 	print	c=1 d=0.97531 t=37
+screen 	screen	c=1 d=1 t=37
+search 	search	c=1 d=1 t=37
+see 	see	c=1 d=1 t=37
+shadow 	shadow	c=2 d=1.94591 t=37
+source 	source	c=1 d=0.980199 t=37
+special 	special	c=1 d=1 t=5
+support 	support	c=1 d=0.985112 t=37
+theme 	theme	c=1 d=0.995012 t=37
+to 	to	c=1 d=1 t=37
+translate 	translate	c=1 d=0.99005 t=37
+trouble 	trouble	c=1 d=1 t=37
+tunnel 	tunnel	c=1 d=0.99005 t=37
+unit 	unit	c=1 d=1 t=4
+unknown 	unknown	c=1 d=0.97531 t=37
+wedding 	wedding	c=1 d=1 t=37
+with 	with	c=1 d=0.99005 t=37
+write 	write	c=1 d=0.995012 t=37
+you 	you	c=1 d=1 t=37

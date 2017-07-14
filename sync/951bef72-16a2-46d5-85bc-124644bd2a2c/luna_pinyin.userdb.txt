@@ -1,0 +1,14 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	8
+#@/user_id	951bef72-16a2-46d5-85bc-124644bd2a2c
+can tian 	參天	c=1 d=1 t=1
+liu 	流	c=1 d=1.09501 t=7
+ni 	你	c=1 d=1 t=7
+pin yin 	拼音	c=1 d=1 t=4
+yan yao shui 	眼藥水	c=1 d=1 t=2
+yu ju 	語句	c=1 d=1.09005 t=7
+yu ju liu 	語句流	c=1 d=1 t=8
+yue 	月	c=1 d=1 t=3

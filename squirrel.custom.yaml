@@ -1,0 +1,323 @@
+patch:
+
+
+  "style/color_scheme": Stardustx
+
+
+  "preset_color_schemes/Stardustx":
+    name: Stardustx
+    author: Stardustx
+    horizontal: true
+    font_point: 19
+    font_face: "PingFang"
+    label_font_face: "PingFangSC-Light"   #候选词编号字体
+    # candidate_format: "%c %@ "
+    candidate_format: "%c\u2005%@\u2005"  # 编号 %c 和候选词 %@ 前后的空间
+    label_font_point: 17
+    corner_radius: 4
+    border_height: 0
+    border_width: 0
+    style/line_spacing: 5
+
+
+#Stardustx   
+    comment_text_color: 0xdddddd             #数字
+    back_color: 0xeeffffff
+    label_color: 0x403D41                     #预选栏编号颜色
+    text_color: 0xeeffffff  #高亮选中词颜色
+    candidate_text_color: 0x000000          #非第一后选项文字颜色     
+    hilited_candidate_text_color: 0xEE6E00    #候选文字颜色
+    hilited_candidate_back_color: 0xFFF0E4  #第一个高亮背景色
+
+
+#Stardustx_Dark   
+    # comment_text_color: 0xdddddd             #数字
+    # back_color: 0xbb2C2C2C
+    # label_color: 0xA7A7A7                     #预选栏编号颜色
+    # text_color: 0xaaffffff  #高亮选中词颜色
+    # candidate_text_color: 0xE0E0E0         #非第一后选项文字颜色     
+    # hilited_candidate_text_color: 0x2C2C2C    #候选文字颜色
+    # hilited_candidate_back_color: 0xaaffffff  #第一个高亮背景色
+
+
+
+
+#Stardustx_原谅绿  
+    # comment_text_color: 0xdddddd             #数字
+    # back_color: 0x032029
+    # label_color: 0xA7A7A7                     #预选栏编号颜色
+    # text_color: 0xaaffffff  #高亮选中词颜色
+    # candidate_text_color: 0xE0E0E0         #非第一后选项文字颜色     
+    # hilited_candidate_text_color: 0x2C2C2C    #候选文字颜色
+    # hilited_candidate_back_color: 0xaaffffff  #第一个高亮背景色
+
+
+
+
+# Android
+    # back_color: 0x99731c
+    # border_color: 0x99731c 
+    # candidate_text_color: 0xffffff
+    # comment_text_color: 0xffffff
+    # hilited_back_color: 0x99731c
+    # hilited_candidate_back_color: 0x50c4a8
+    # hilited_candidate_text_color: 0xffffff
+    # # # hilited_comment_text_color: 0xffffff
+    # # # hilited_text_color: 0x50c4a8
+    # # # label_color: 0xc18835
+    # name: "安卓／Android"
+    # text_color: 0xffffff
+
+#Pink
+    # back_color: 0xffffff
+    # border_color: 0x333333
+    # candidate_text_color: 0x575757
+    # hilited_back_color: 0xffffff
+    # hilited_candidate_back_color: 0xffffff
+    # hilited_candidate_text_color: 0x2238dc
+    # hilited_text_color: 0x2238dc
+    # name: "粉色"
+    # text_color: 0x2238dc
+
+#暗堂 Dark_Green
+    # back_color: 0x222222
+    # border_color: 0x222222
+    # candidate_text_color: 0xd8e3e6
+    # comment_text_color: 0x606cff
+    # hilited_back_color: 0x222222
+    # hilited_candidate_back_color: 0x333333
+    # hilited_candidate_text_color: 0x92f6da
+    # hilited_text_color: 0xffcf9a
+    # name: "暗堂／Dark Temple 的 黑绿色"
+    # text_color: 0x92f6da
+
+#Doraemon
+    # back_color: 0xffffff
+    # border_color: 0xe89f00
+    # candidate_text_color: 0xe89f00
+    # comment_text_color: 0xe89f00
+    # hilited_back_color: 0x1200e5
+    # hilited_candidate_back_color: 0xe89f00
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_comment_text_color: 0xffffff
+    # hilited_text_color: 0xffffff
+    # label_color: 0xe89f00
+    # name: "銅鑼衛門／Doraemon"
+    # text_color: 0x1200e5
+
+#Google
+    # back_color: 0xFFFFFF
+    # border_color: 0xE2E2E2
+    # candidate_text_color: 0x000000
+    # hilited_back_color: 0xFFFFFF
+    # hilited_candidate_back_color: 0xCE7539
+    # hilited_candidate_text_color: 0xFFFFFF
+    # hilited_text_color: 0x000000
+    # name: "谷歌／Google"
+    # text_color: 0x666666
+
+
+#Ink
+    # back_color: 0xffffff
+    # border_color: 0x000000
+    # hilited_back_color: 0xdddddd
+    # hilited_candidate_back_color: 0x000000
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_text_color: 0x000000
+    # name: "墨池／Ink"
+    # text_color: 0x000000
+
+#Luna
+    # back_color: 0xffffff
+    # border_color: 0xcccccc
+    # hilited_back_color: 0x7fffff
+    # hilited_candidate_back_color: 0x000000
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_text_color: 0x000000
+    # name: "明月／Luna"
+    # text_color: 0x000000
+
+#深绿的现代战争
+    # author: P1461
+    # back_color: 0x0a1b0d
+    # border_color: 0x4bad83
+    # candidate_text_color: 0xabfedc
+    # comment_text_color: 0xfcfdfb
+    # hilited_back_color: 0x030e06
+    # hilited_candidate_back_color: 0x676f63
+    # hilited_candidate_text_color: 0xabfedc
+    # hilited_text_color: 0xfbfdfc
+    # name: "現代戰爭／Modern Warfare"
+    # text_color: 0x14bc70
+
+#PS4
+    # back_color: 0x000000
+    # border_color: 0x000000
+    # candidate_text_color: 0xffffff
+    # comment_text_color: 0xffffff
+    # hilited_back_color: 0x575759
+    # hilited_candidate_back_color: 0xe89f00
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_comment_text_color: 0xffffff
+    # hilited_text_color: 0xffffff
+    # label_color: 0xffffff
+    # name: "遊驛四／PS4"
+    # text_color: 0xffffff
+
+#Skype
+    # back_color: 0xefad00
+    # border_color: 0xefad00
+    # candidate_text_color: 0xffffff
+    # comment_text_color: 0xffffff
+    # hilited_back_color: 0xffffff
+    # hilited_candidate_back_color: 0xffffff
+    # hilited_candidate_text_color: 0xefad00
+    # hilited_comment_text_color: 0xefad00
+    # hilited_text_color: 0xefad00
+    # label_color: 0xffffff
+    # name: "斯蓋普／Skype"
+    # text_color: 0xffffff
+
+#曬經石／Solarized Rock
+    # back_color: 0x362b00
+    # border_color: 0x362b00
+    # candidate_text_color: 0x969483
+    # hilited_candidate_back_color: 0x8236d3
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_text_color: 0x98a12a
+    # name: "曬經石／Solarized Rock"
+    # text_color: 0x009985
+
+#星际2
+    # back_color: 0x29190a
+    # border_color: 0x534b46
+    # candidate_text_color: 0xffffff
+    # comment_text_color: 0xffffff
+    # hilited_back_color: 0x17100a
+    # hilited_candidate_back_color: 0xefad1e
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_comment_text_color: 0xffffff
+    # hilited_text_color: 0xffffff
+    # label_color: 0xffffff
+    # name: "Black_Blue2"
+    # text_color: 0xffffff
+
+    
+#   steam:
+    # author: "Patricivs <ipatrickmac@me.com>"
+    # back_color: 0x141617
+    # border_color: 0x353638
+    # candidate_text_color: 0xffffff
+    # comment_text_color: 0xa7a7a9
+    # hilited_back_color: 0x141617
+    # hilited_candidate_back_color: 0x594231
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_comment_text_color: 0xa7a7a9
+    # hilited_text_color: 0xc9cfd1
+    # label_color: 0xffffff
+    # name: Steam
+    # text_color: 0xcd8c52
+
+#   wii:
+    # author: "Patricivs <ipatrickmac@me.com>"
+    # back_color: 0xefefef
+    # border_color: 0xefefef
+    # candidate_text_color: 0x575759
+    # comment_text_color: 0xcac9c8
+    # hilited_back_color: 0xefefef
+    # hilited_candidate_back_color: 0xffcc33
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_comment_text_color: 0xffffff
+    # hilited_text_color: 0xffcc33
+    # label_color: 0xcac9c8
+    # name: Wii
+    # text_color: 0x575759
+
+#   youtube:
+    # author: "Patricivs <ipatrickmac@me.com>"
+    # back_color: 0xdedede
+    # border_color: 0xdedede
+    # candidate_text_color: 0x000000
+    # comment_text_color: 0x000000
+    # hilited_back_color: 0xffffff
+    # hilited_candidate_back_color: 0x230dc3
+    # hilited_candidate_text_color: 0xffffff
+    # hilited_comment_text_color: 0xffffff
+    # hilited_text_color: 0x230dc3
+    # label_color: 0x000000
+    # name: YouTube
+    # text_color: 0x000000
+
+
+
+
+
+# 套路是一开始自定义了一个主题 "Stardustx"
+
+#   第一次缩进里写了字体, 间距
+
+#     第二次缩进写了主题, 主题下有配色
+#     所以更改主题只需把一排句首对齐的代码 (color之类的) 注释掉, 再把另一排注释出来, 主题的名字不用管他
+
+
+# 想自己改的话下面有具体解释
+# 白的为, 这些文字就是注释掉的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+#     author: "***** <****@gmail.com>"        #作者
+#     name: "无语／*****"                      #作者名字
+#     label_color: 0xf2a45a                    #预选栏编号颜色
+#     back_color: 0x333333                    #背景颜色
+#     candidate_text_color: 0xb9b9b9          #非第一后选项文字颜色
+#     comment_text_color: 0xa5a5a5            #注解文字颜色
+#     hilited_candidate_back_color: 0x333333    #第一后选项背景颜色
+#     hilited_candidate_text_color: 0xff7d00    #第一后选项文字颜色
+#     hilited_comment_text_color: 0x00a5ea      #注解文字高亮
+#     hilited_text_color: 0x7fffff              #拼音串高亮（需要开启内嵌编码）
+#     text_color: 0xa5a5a5                      #拼音串颜色（需要开启内嵌编码）
+
+# # squirrel.custom.yaml
+# patch: 
+#   # us_keyboard_layout: true         # 键盘选项：应用美式键盘布局
+#   # show_notifications_when: growl_is_running  # 狀態通知，默認裝有Growl時顯示，也可設爲全開（always）全關（never）
+#     style/color_scheme: demo         # 选择配色方案
+#     style/horizontal: true           # 候选窗横向显示
+#   # style/inline_preedit: false   # 关闭内嵌编码，这样就可以显示首行的拼音（MAC下不建议开启）
+#     style/corner_radius: 3           # 窗口圆角半径
+#     style/border_height: 4           # 窗口边界高度，大于圆角半径才有效果
+#     tyle/border_width: 4             # 窗口边界宽度，大于圆角半径才有效果
+#   # style/line_spacing: 1         # 候选词的行间距
+#   # style/spacing: 5              # 在非内嵌编码模式下，预编辑和候选词之间的间距
+#     style/font_face: "Lantinghei TC Extralight"  # 预选栏文字字体，使用中文字体：兰亭黑-纤黑
+#     style/font_point: 17             #预选栏文字字号
+#     style/label_font_face: "Myriad Pro Light"  # 预选栏编号字体，使用西文字体：Myriad Pro Light
+#     style/label_font_point: 17       #预选栏编号字号
+#      #上述是候选栏的基本设置，确定了文字的大小和候选栏的外观样式。
+#      #下面是“demo”样式文件的配置，主要确定候选栏颜色配置。
+#     preset_color_schemes:
+#     demo:        #样式名称，就是上述“style/color_scheme: demo”
+

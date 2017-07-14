@@ -1,0 +1,52 @@
+# Stardustx 的 文本替换
+# 西西
+# create 2016.06.10 
+
+---
+name: luna_pinyin.Stardustx_Text
+version: "2016.6.10"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+
+#Stardustx 文本替换
+
+stardust_s2@live.com	s d t	10000
+stardust_s2@outlook.com	s do	1000
+stardust_us@outlook.com	s du	100000
+chen763367185@163.com	chen q	100000
+stardustxlive@gmail.com	s x g	10000
+
+Stardustx	s x	100000
+Stardustx Chan	s c	1000
+
+PDF	p d f	10000000000
+侘寂	cha ji	1
+Keynote	ke y no te	10000000000
+Keynote	k n	100000
+
+
+Pokémon GO	p k m	10000000000
+
+MacBook Pro	mac book p ro	10000000000
+MacBook Pro	m b p	10000000000
+Retina MacBook Pro	r m b p	10000000000
+macOS Sierra	ma co s s	10000000000
+macOS Sierra	macos	10000000000
+
+
+
+
+
+
+
+
+
+
+# 以製表符（Tab）分隔的第一個字段是所定義的文字，可以是單字或詞組；
+
+# 第二個字段是與文字對應的編碼；若該編碼由多個「音節」組成，音節之間以空格分開；
+
+# 可選地、第三個字段是設定該字詞權重的頻度值（非負整數），或相對於預設權值的百分比（浮點數%）。 
+# 在拼音輸入法中，往往多音字的若干種讀音使用的場合不同，於是指定不同百分比來修正每個讀音的使用頻度。
